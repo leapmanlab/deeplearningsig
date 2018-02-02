@@ -3,7 +3,7 @@ Multiple imaging and genomics groups at the National Institutes of Health are in
 
 ---
 # Groups to contact
-The NIH SIP application process does not allow people to apply to individual labs directly. Instead, applicants are encouraged to contact labs with projects they find interesting. Below is an outline of some labs interested in pursuing machine learning projects this summer.
+The NIH SIP application process does not allow people to apply to individual labs directly. Instead, applicants are encouraged to contact labs directly. Below is an outline of some labs interested in pursuing machine learning projects this summer, as well as contact information.
 
 ### Imaging Biomarkers and Computer-Aided Diagnosis Laboratory
 Led by [Dr. Ronald Summers](https://clinicalcenter.nih.gov/about/SeniorStaff/ronald_summers.html) <rms@nih.gov>, The Imaging Biomarkers and Computer-Aided Diagnosis Laboratory has a long-standing interest in developing machine learning techniques to improve computer-aided diagnosis (CAD) of disease from radiological images. 
