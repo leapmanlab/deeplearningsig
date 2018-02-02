@@ -44,7 +44,7 @@ Individual project duties and requirements vary, but common items are as follows
 
 Please contact labs directly for lab-specific details.
 
-Interested individuals should make sure they meet the NIH SIP [eligibility criteria](https://www.training.nih.gov/eligibility_wizard) and apply online at [https://www.training.nih.gov/programs/sip]. Please note that the program is open only to US citizens and permanent residents, age 16 or older as of June 15, 2018, enrolled at least half-time in an accredited university or planning to be enrolled in the fall of 2018.
+Interested individuals should make sure they meet the NIH SIP [eligibility criteria](https://www.training.nih.gov/eligibility_wizard). Please note that the program is open only to US citizens and permanent residents, age 16 or older as of June 15, 2018, enrolled at least half-time in an accredited university or planning to be enrolled in the fall of 2018.
 
 One of the goals of the NIH is to build a diverse and inclusive scientific workforce. Therefore, we encourage students from underrepresented communities or disadvantaged backgrounds to apply for the NIH SIP.
 
