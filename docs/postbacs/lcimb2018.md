@@ -36,7 +36,7 @@ Preference may be given to applicants with one or more of these skills:
 
 ---
 # Applying
-Interested individuals must fill out an online application which includes a Resume/CV, cover letter, and three letters of recommendation. [Click here](https://www.training.nih.gov/resources/faqs/postbac_irta#Application Procedure) for more information on the Postbac IRTA application procedure.
+Interested individuals must fill out an online application which includes a resume/CV, cover letter, and three letters of recommendation. [Click here](https://www.training.nih.gov/resources/faqs/postbac_irta#Application Procedure) for more information on the Postbac IRTA application procedure.
 
 One of the goals of the NIH is to build a diverse and inclusive scientific workforce. To this end, we encourage students from underrepresented communities or disadvantaged backgrounds to apply for this position.
 
