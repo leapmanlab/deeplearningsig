@@ -25,3 +25,12 @@ Dr. Kedar Narayan <narayank@mail.nih.gov> is the group leader for cellular imagi
 ### Laboratory of Cellular Imaging and Macromolecular Biophysics
 The [Laboratory of Cellular Imaging and Macromolecular Biophysics](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb), led by Richard Leapman, has an ongoing project headed by Matthew Guay <matthew.guay@nih.gov> to develop effective automated segmentation algorithms for analyzing large-scale tissue structure using electron microscopy ([SBF-SEM](https://en.wikipedia.org/wiki/Serial_block-face_scanning_electron_microscopy)).
 
+# Application instructions
+Interested individuals should make sure they meet the NIH SIP [eligibility criteria](https://www.training.nih.gov/eligibility_wizard) and apply online at [https://www.training.nih.gov/programs/sip]. Please note that the program is open only to US citizens and permanent residents, age 16 or older as of June 15, 2018, enrolled at least half-time in an accredited university or planning to be enrolled in the fall of 2018.
+
+One of the goals of the NIH is to build a diverse and inclusive scientific workforce. Therefore, we encourage students from underrepresented communities or disadvantaged backgrounds to apply for the NIH SIP.
+
+**All applications are due by March 1, 2018**
+Remember - since the SIP application procedure does not let you specify a particular lab, you should contact labs directly to indicate your interest in working on a project.
+
+Please direct general questions about the application procedure to Matthew Guay at <matthew.guay@nih.gov>.
