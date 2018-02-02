@@ -6,13 +6,13 @@ Multiple imaging and genomics groups at the National Institutes of Health are in
 The NIH SIP application process does not allow people to apply to individual labs directly. Instead, applicants are encouraged to contact labs directly. Below is an outline of some labs interested in pursuing machine learning projects this summer, as well as contact information.
 
 ### Imaging Biomarkers and Computer-Aided Diagnosis Laboratory
-Led by [Dr. Ronald Summers](https://clinicalcenter.nih.gov/about/SeniorStaff/ronald_summers.html) <rms@nih.gov>, The Imaging Biomarkers and Computer-Aided Diagnosis Laboratory has a long-standing interest in developing machine learning techniques to improve computer-aided diagnosis (CAD) of disease from radiological images. 
+Led by [Dr. Ronald Summers](https://clinicalcenter.nih.gov/about/SeniorStaff/ronald_summers.html) <<rms@nih.gov>>, The Imaging Biomarkers and Computer-Aided Diagnosis Laboratory has a long-standing interest in developing machine learning techniques to improve computer-aided diagnosis (CAD) of disease from radiological images. 
 
 ### Center for Molecular Microscopy
-Dr. Kedar Narayan <narayank@mail.nih.gov> is the group leader for cellular imaging at the [Center for Molecular Microscopy](https://cmm.nci.nih.gov/research). His team is interested in developing computer vision algorithms for high-resolution imaging of biological structures using electron microscopy ([FIB-SEM](https://www.fei.com/introduction-to-electron-microscopy/fib/)).
+Dr. Kedar Narayan <<narayank@mail.nih.gov>> is the group leader for cellular imaging at the [Center for Molecular Microscopy](https://cmm.nci.nih.gov/research). His team is interested in developing computer vision algorithms for high-resolution imaging of biological structures using electron microscopy ([FIB-SEM](https://www.fei.com/introduction-to-electron-microscopy/fib/)).
 
 ### Laboratory of Cellular Imaging and Macromolecular Biophysics
-The [Laboratory of Cellular Imaging and Macromolecular Biophysics](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb), led by Richard Leapman, has an ongoing project headed by Matthew Guay <matthew.guay@nih.gov> to develop effective automated segmentation algorithms for analyzing large-scale tissue structure using electron microscopy ([SBF-SEM](https://en.wikipedia.org/wiki/Serial_block-face_scanning_electron_microscopy)).
+The [Laboratory of Cellular Imaging and Macromolecular Biophysics](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb), led by Richard Leapman, has an ongoing project headed by Matthew Guay <<matthew.guay@nih.gov>> to develop effective automated segmentation algorithms for analyzing large-scale tissue structure using electron microscopy ([SBF-SEM](https://en.wikipedia.org/wiki/Serial_block-face_scanning_electron_microscopy)).
 
 ---
 # Application instructions
