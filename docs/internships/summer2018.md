@@ -1,5 +1,5 @@
 # Summer 2018 internships in machine learning at the NIH
-Multiple imaging and genomics groups at the National Institutes of Health are interested in hiring undergraduate and graduate student summer interns for machine learning projects as part of the [NIH Summer Internship Program](https://www.training.nih.gov/programs/sip). We encourage students with strong math, computer science, and data science backgrounds to submit SIP applications for these projects.
+Multiple groups at the National Institutes of Health are interested in hiring undergraduate and graduate student summer interns for machine learning projects as part of the [NIH Summer Internship Program](https://www.training.nih.gov/programs/sip). We encourage students with strong math, computer science, and data science backgrounds to submit SIP applications for these projects.
 
 ### Location
 Bethesda, MD
