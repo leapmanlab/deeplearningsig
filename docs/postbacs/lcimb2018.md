@@ -15,7 +15,7 @@ The Postbac IRTA program is intended for recent bachelor's and master's degree r
 ### Duties
 Accepted postbacs will do some or all of the following:
 * Become familiar with microscopy techniques used in LCIMB.
-* Gain proficiency in the theory and practice of deep learning for computer vision. This includes reading and making use of recnet papers in the academic machine learning literature.
+* Gain proficiency in the theory and practice of deep learning for computer vision. This includes reading and making use of recent papers in the academic machine learning literature.
 * Use TensorFlow and Python to design, train, and use neural networks for 3D image segmentation.
 * Design workflows which use neural networks to segment electron microscopy images, and optimize those workflows to scale to very large datasets.
 
@@ -28,7 +28,7 @@ Successful applicants will have most or all of these skills:
 
 ### Preferred skills
 Preference may be given to applicants with one or more of these skills:
-* Familarity with Linux and command line interfaces.
+* Familarity with Linux, command line interfaces, and git/GitHub.
 * A mathematical background including higher math topics like numerical analysis, optimization, or mathematical signal processing.
 * Experience with programming for scientific computing or data science, especially in Python.
 * Experience with deep learning libraries like TensorFlow, Keras, or PyTorch.

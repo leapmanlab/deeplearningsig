@@ -20,8 +20,16 @@ Dr. Kedar Narayan \< <narayank@mail.nih.gov> \> is the group leader for cellular
 ### Laboratory of Cellular Imaging and Macromolecular Biophysics
 The [Laboratory of Cellular Imaging and Macromolecular Biophysics](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb), led by Richard Leapman, has an ongoing project headed by Matthew Guay \< <matthew.guay@nih.gov> \> to develop effective automated segmentation algorithms for analyzing large-scale tissue structure using electron microscopy ([SBF-SEM](https://en.wikipedia.org/wiki/Serial_block-face_scanning_electron_microscopy)).
 
+### Laboratory of Molecular and Cellular Imaging
+Led by Justin Taraska (<justin.taraska@nih.gov>), the [Laboratory of Molecular and Cellular Imaging](https://taraskalab.nhlbi.nih.gov/research/) develops and uses advanced fluorescence and electron microscopy methods as well as biochemical, cellular, and biophysical tools to understand the nanoscale architecture of the proteins that regulate key cellular events. His team is interested in building new software tools to improve and accelerate analysis of the lab's cellular image data.
+
+### Unit on Neural Computation and Behavior
+Led by Mark Histed (<mark.histed@nih.gov>), the [Unit on Neural Computation and Behavior](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/ncb/index.shtml) is looking for a PhD student interested in using principles from deep learning to understand the brain, using optical 2-photon experiments in behaving mice.
+
 ---
 # Application instructions
+**[Apply online here](https://www2.training.nih.gov/apps/publicforms/sip/forms/login.aspx)**
+
 Individual project duties and requirements vary, but common items are as follows.
 
 ## Duties
