@@ -41,7 +41,9 @@ Interested individuals must fill out an online application which includes a Resu
 One of the goals of the NIH is to build a diverse and inclusive scientific workforce. To this end, we encourage students from underrepresented communities or disadvantaged backgrounds to apply for this position.
 
 ### Application
-[Click here](https://www2.training.nih.gov/apps/publicforms/pbt/forms/pbtapp.aspx) to begin the NIH Postbac IRTA program application. Once you have applied, please contact lab chief Richard Leapman (<leapmanr@mail.nih.gov>) as well as Matthew Guay (<matthew.guay@nih.gov>), postdoc in charge of the deep learning project and writer of this webpage.
+**[Click here](https://www2.training.nih.gov/apps/publicforms/pbt/forms/pbtapp.aspx)** to begin the NIH postbac IRTA program application. 
+
+Once you have applied, please contact lab chief Richard Leapman (<leapmanr@mail.nih.gov>) as well as Matthew Guay (<matthew.guay@nih.gov>), postdoc in charge of the deep learning project and writer of this webpage.
 
 ### Questions?
 If you have any questions about LCIMB, our deep learning project, postbac IRTAs at NIH, or the application procedure, please send a message to Matt at <matthew.guay@nih.gov>.
