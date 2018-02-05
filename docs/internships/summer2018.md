@@ -30,6 +30,7 @@ Led by Mark Histed (<mark.histed@nih.gov>), the [Unit on Neural Computation and 
 
 ---
 # Application instructions
+
 **[Apply online here](https://www2.training.nih.gov/apps/publicforms/sip/forms/login.aspx)**
 
 Individual project duties and requirements vary, but common items are as follows.
@@ -54,4 +55,9 @@ One of the goals of the NIH is to build a diverse and inclusive scientific workf
 
 Remember - since the SIP application procedure does not let you specify a particular lab, you should contact labs directly to indicate your interest in working on a project.
 
-Please direct general questions about the application procedure to Matthew Guay at <matthew.guay@nih.gov>.
+---
+#Questions?
+
+Please direct general questions about the application procedure to Matthew Guay at <matthew.guay@nih.gov>. 
+
+For questions about lab-specific projects, please email the provided point of contact for the lab.
