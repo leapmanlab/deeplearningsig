@@ -1,4 +1,4 @@
-# Summer 2018 internships in machine learning at the NIH
+# NIH summer 2018 internships in machine learning
 Machine learning techniques promise to revolutionize our ability to analyze the enormous quantities of data generated in the course of biomedical research. Labs at the NIH are working to develop the software tools to realize that promise, and we are looking for students with strong math, computer science, and data science backgrounds to help us build those tools.
 
 Multiple groups at the National Institutes of Health are interested in hiring undergraduate and graduate student summer interns for machine learning projects as part of the [NIH Summer Internship Program](https://www.training.nih.gov/programs/sip) (SIP).
@@ -10,8 +10,8 @@ Bethesda, MD
 Negotiable. 8-10 weeks between mid-May and and August.
 
 ---
-# Groups to contact
-The NIH SIP application process does not allow people to apply to individual labs directly. Instead, applicants are encouraged to contact labs directly. Below is an outline of some labs interested in pursuing machine learning projects this summer, as well as contact information.
+# NIH machine learning projects
+The NIH SIP online application does not allow people to apply to individual labs directly. Instead, applicants are encouraged to contact the labs they wish to work with by email. Below is an outline of some labs interested in pursuing machine learning projects this summer, as well as contact information.
 
 ### Imaging Biomarkers and Computer-Aided Diagnosis Laboratory
 Led by [Dr. Ronald Summers](https://clinicalcenter.nih.gov/about/SeniorStaff/ronald_summers.html) (<rms@nih.gov>), the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory has a long-standing interest in developing machine learning techniques to improve computer-aided diagnosis (CAD) of disease from radiological images. 
