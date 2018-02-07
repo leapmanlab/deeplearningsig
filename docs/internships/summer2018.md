@@ -29,7 +29,7 @@ Led by Justin Taraska (<justin.taraska@nih.gov>), the [Laboratory of Molecular a
 Led by Mark Histed (<mark.histed@nih.gov>), the [Unit on Neural Computation and Behavior](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/ncb/index.shtml) is looking for a PhD student interested in using principles from deep learning to understand the brain, using optical 2-photon experiments in behaving mice.
 
 ### Lister Hill National Center for Biomedical Communications
-Dr. [George Thoma](https://lhncbc.nlm.nih.gov/personnel/george-thoma) (<gthoma@mail.nih.gov>) is the Chief of the Communications Engineering Branch of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine. Dr. Thoma oversees multiple image processing and recognition projects, including research on automated research article analysis, as well as low-cost malaria detection software for smartphones.
+Dr. [George Thoma](https://lhncbc.nlm.nih.gov/personnel/george-thoma) (<gthoma@mail.nih.gov>) is the Chief of the Communications Engineering Branch of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine. Dr. Thoma oversees multiple image processing and recognition projects, including research on automated research article analysis, as well as low-cost malaria detection tools using machine learning software deployed on smartphones.
 
 ---
 # Application instructions
